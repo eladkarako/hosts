@@ -1,0 +1,14 @@
+{
+  "hosts":  { "datetime"  :  { "string"  : "2020-09-14T17:22:00.000Z+00:00 UTC"
+                              ,"version" : "2020.09.14.172200"
+                              ,"unix"    : 1600104767471
+                             }
+             ,"entries"   :  1722551
+             ,"downloads" :  [ "https://raw.githubusercontent.com/eladkarako/hosts/master/_raw__hosts.txt"
+                              ,"https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts0.txt"
+                              ,"https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts0_with_localhost.txt"
+                              ,"https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock.txt"
+                             ]
+            }
+}
+          

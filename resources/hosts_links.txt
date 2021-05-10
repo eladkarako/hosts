@@ -1,0 +1,15 @@
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts0.txt
+
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts0_with_localhost.txt
+
+---------------------------------------------------------------------------------------------------
+
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock.txt
+
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_hide.txt
+
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_block.txt
+
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_block_inline_script.txt
+
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_style_inject.txt

@@ -1,0 +1,11 @@
+*.exe            binary
+*.gif            binary
+*.png            binary
+
+/*.txt           text    eol=crlf
+build/*.txt      text    eol=crlf
+resources/*.txt  text    eol=crlf
+
+*.cmd            text    eol=crlf
+*.js             text    eol=crlf
+README.md                eol=crlf

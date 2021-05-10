@@ -1,0 +1,4 @@
+https://github.com/gorhill/uBlock/releases/download/1.17.2/uBlock0.chromium.zip
+
+https://github.com/gorhill/uBlock/releases/download/1.17.2/uBlock0.firefox.xpi
+
